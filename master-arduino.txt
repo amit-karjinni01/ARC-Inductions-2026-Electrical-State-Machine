@@ -1,0 +1,9 @@
+# Links:
+// Tinkercad project: https://www.tinkercad.com/things/ddDdOrjoSUg-master-slave-monitoring-system-amit-k?sharecode=aLwm383qRwH74WlpsPG4DL8QBJa1PwwZuJ2Z8TzEvOE
+// Amit Karjinni - 2026AAPS0272H
+// Arduino Master-Slave Sensor Monitoring System
+
+# Experience:
+Making this project on tinkercad was rly fun, also learnt a lot of new things about components in arduino, for the code, i used help of ai (claude) still trying to learn more how to efficiently code on arduino,
+I also had to do some troubleshooting with the IR remote, it wasnt working at that time for some reason
+In the end i managed to successfully run the code and everything works well :)
